@@ -45,4 +45,4 @@ forms.forEach(form => {
     }, 50);
     form.reset();
   });
-});
+}); 
